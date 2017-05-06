@@ -1,5 +1,8 @@
 # Titov
-frontend template
+my new frontend template
 
-run: webpack-dev-server --progress --colors
-see: http://localhost:8080/webpack-dev-server/
+![German Titov](titov.png)
+
+**Run:** `webpack-dev-server --progress --colors`
+
+**Check:** http://localhost:8080/webpack-dev-server/
